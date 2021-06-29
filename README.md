@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **a project called Forkify App**
 
-- 🌱 I’m currently learning **The complete JavaScript Course 2021,React**
+- 🌱 I’m currently learning **The complete JavaScript Course 2021 and Reactjs**
 
 - 📝 I occasionally write on [https://www.quora.com/profile/Sugyanee-Sahu](https://www.quora.com/profile/Sugyanee-Sahu)
 
