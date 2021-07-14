@@ -2,7 +2,7 @@
 <br>
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=43cbaa&size=40&width=750&height=80&lines=Hello+geeks!+I'm+Sugyanee."/></h2>
 <h3 align="center">An enthusiast in the field of web development and a sophomore at National Institute of Technology,Silchar</h3>
-<img width="35%" align="right" alt="Github" src = "https://static.vecteezy.com/system/resources/previews/000/229/543/non_2x/vector-young-indian-woman-as-female-developer-profession.jpg" />
+<img width="35%" align="right" alt="Github" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F2542587-Third-Winner-of-Toptal-s-STEM-Scholarships-for-Women&psig=AOvVaw3dhuLnyJ5wGnboFHl0gFor&ust=1626335395221000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPjt4d2J4vECFQAAAAAdAAAAABAu" />
 
 <br>
 
