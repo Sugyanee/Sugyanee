@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sugyanee Sahu</h1>
 <br>
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=43cbaa&size=40&width=750&height=80&lines=Hello+there!+I'm+Sugyanee."/></h2>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=43cbaa&size=40&width=750&height=80&lines=Hello+geeks!+I'm+Sugyanee."/></h2>
 <h3 align="center">An enthusiast in the field of web development and a sophomore at National Institute of Technology,Silchar</h3>
 <img width="35%" align="right" alt="Github" src = "https://static.vecteezy.com/system/resources/previews/000/229/543/non_2x/vector-young-indian-woman-as-female-developer-profession.jpg" />
 
