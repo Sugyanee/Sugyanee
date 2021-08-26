@@ -1,6 +1,6 @@
 <h1 align="center"> She takes pride in learning 🎯</h1>
 <br>
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=43cbaa&size=40&width=750&height=80&lines=Hello+geeks!+I'm+Sugyanee."/></h2>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=43cbaa&size=40&width=750&height=80&lines=Hello+geeks!+Welcome+to+my+world!."/></h2>
 <h3 align="center">An enthusiast in the field of web development and a sophomore at National Institute of Technology,Silchar</h3>
 <img width="35%" align="right" alt="Github" src = "https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" />
 
@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **a project called Forkify App**
 
-- 🌱 I’m currently learning **The complete JavaScript Course 2021 and Reactjs**
+- 🌱 I’m currently learning **Node.js and React.js**
 
 - 📝 I occasionally write on [https://www.quora.com/profile/Sugyanee-Sahu](https://www.quora.com/profile/Sugyanee-Sahu)
 
-- 📫 You can reach me through my email **sug.jan11@gmail.com**
+- 📫 You can reach me through my email **sugyanee1101@gmail.com**
 
 - ⚡ Fun fact **People think I have a serious personality**
 
