@@ -7,7 +7,7 @@
 <br>
 
 
-- 🔭 I’m currently working on **a project called Forkify App**
+
 
 - 🌱 I’m currently learning **Node.js and React.js**
 
