@@ -49,7 +49,7 @@
 ## Find me around the web 🌎:
 <p align="left">
 <a href="https://codepen.io/@codepen-io-sugyanee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@codepen-io-sugyanee" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sugyanee-sahu-2a4a0b1ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sugyanee-sahu-2a4a0b1ab" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sugyanee-sahu-2a4a0b1ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sugyanee-sahu" height="30" width="40" /></a>
 <a href="https://fb.com/sugyanee sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sugyanee sahu" height="30" width="40" /></a>
 <a href="https://instagram.com/_thes11_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_thes11_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sugyanee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sugyanee" height="30" width="40" /></a>
