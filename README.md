@@ -35,6 +35,7 @@
   - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> ![jQuery](https://img.shields.io/badge/-jquery-333333?style=flat&logo=jquery&logoColor=A8B9CC)&nbsp;
 
   - <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+  - <a href="https://reactjs.org/" target="_blank"> <img src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
 
 - Utilities
 
