@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **Node.js and React.js**
+- 🌱 A Software Development Engineer and a girl who loves to code and design beautiful websites
 
 - 📝 I occasionally write on [https://www.quora.com/profile/Sugyanee-Sahu](https://www.quora.com/profile/Sugyanee-Sahu)
 
