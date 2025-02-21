@@ -1,7 +1,7 @@
 <h1 align="center"> She takes pride in learning 🎯</h1>
 <br>
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=43cbaa&size=40&width=750&height=80&lines=Hello+geeks!+Welcome+to+my+world!."/></h2>
-<h3 align="center">A self-driven enthusiast constantly experimenting with new technologies and techniques in the field of web development and an undergrad at National Institute of Technology,Silchar</h3>
+<h3 align="center">A self-driven enthusiast constantly experimenting with new technologies and techniques in the field of web development and a Backend developer  at work </h3>
 <img width="35%" align="right" alt="Github" src = "https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" />
 
 <br>
